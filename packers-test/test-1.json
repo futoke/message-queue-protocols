@@ -1,0 +1,49 @@
+{"root":
+    [
+      {
+        "_id": "58bd98ba0a80f2535064c10c",
+        "index": 0,
+        "guid": "489268e9-260f-43fc-a438-9e68cc03755c",
+        "isActive": true,
+        "balance": "$2,968.92",
+        "picture": "http://placehold.it/32x32",
+        "age": 26,
+        "eyeColor": "brown",
+        "name": "Stein House",
+        "gender": "male",
+        "company": "PLASMOX",
+        "email": "steinhouse@plasmox.com",
+        "phone": "+1 (883) 494-2642",
+        "address": "685 Marconi Place, Dyckesville, Oregon, 2389",
+        "about": "Velit labore amet amet laborum voluptate et tempor laboris mollit. Proident minim Lorem duis ipsum laboris ullamco ad reprehenderit ex. Id sunt ex in culpa. Consectetur aliquip laborum ullamco dolore elit anim dolore ullamco cillum est eu qui aliquip ex. Nostrud pariatur Lorem et Lorem exercitation non in exercitation nostrud sint. Fugiat non fugiat dolore duis exercitation in et esse est. Non fugiat anim irure officia nulla eiusmod irure reprehenderit eiusmod ipsum aute excepteur culpa.\r\n",
+        "registered": "2016-10-01T05:56:54 -03:00",
+        "latitude": -0.982822,
+        "longitude": 19.623944,
+        "tags": [
+          "ipsum",
+          "velit",
+          "tempor",
+          "officia",
+          "sunt",
+          "amet",
+          "in"
+        ],
+        "friends": [
+          {
+            "id": 0,
+            "name": "Eve Rios"
+          },
+          {
+            "id": 1,
+            "name": "Lynne Roman"
+          },
+          {
+            "id": 2,
+            "name": "Goodwin Peck"
+          }
+        ],
+        "greeting": "Hello, Stein House! You have 5 unread messages.",
+        "favoriteFruit": "strawberry"
+      }
+    ]
+}
